@@ -108,7 +108,6 @@ Job tracking dashboard
 Sehrish Shafiq
 
 💼 AI Engineer | Python Developer
-🌐 LinkedIn: https://www.linkedin.com/in/sehrish-shafiq
 ⭐ Support
 
 If you like this project, please consider giving a ⭐ on GitHub.
