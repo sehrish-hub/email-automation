@@ -1,0 +1,17 @@
+# Sensitive files (DO NOT PUSH)
+credentials.json
+token.json
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# CV or personal files
+*.pdf
+
+# System files
+.DS_Store
