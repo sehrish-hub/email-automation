@@ -6,6 +6,7 @@ token.json
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
 
 # Virtual environment
 .venv/
@@ -15,3 +16,14 @@ __pycache__/
 
 # System files
 .DS_Store
+
+
+# Virtual Environment
+.venv/
+.env/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
